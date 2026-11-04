@@ -1,0 +1,26 @@
+.button-1 {
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: #EFB838;
+    box-shadow: 0 10px 10px 5px grey;
+    text-decoration: none;
+    text-color: red;
+}
+
+.button-2 {
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: #008CBA;
+    box-shadow: 0 10px 10px 5px grey;
+    text-decoration: none;
+    text-color: black;
+}
+
+.button-3 {
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: #8EE53F;
+    box-shadow: 0 10px 10px 5px grey;
+    text-decoration: none;
+    color: black;
+}
